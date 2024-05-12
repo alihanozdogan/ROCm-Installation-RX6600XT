@@ -1,0 +1,1 @@
+# ROCm-Installation-RX6600XT
